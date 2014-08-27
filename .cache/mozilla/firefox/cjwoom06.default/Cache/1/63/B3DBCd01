@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+<title> WebHome &lt; SsnIntranet &lt; SSN Institutions</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" />
+<link rel="icon" href="/twiki/pub/SsnIntranet/WebPreferences/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/twiki/pub/SsnIntranet/WebPreferences/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/twiki/bin/view/SsnIntranet/WebRss" />
+<base href="http://www.ssn.net/twiki/bin/view/SsnIntranet/WebHome"></base>
+
+<script type="text/javascript" src="/twiki/pub/TWiki/TWikiJavascripts/twiki.js"></script>
+<script type="text/javascript" src="/twiki/pub/TWiki/PatternSkin/pattern.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+	function launchWindow(inWeb, inTopic) {
+		return launchTheWindow("/twiki/bin/view/", inWeb, inTopic, "", "viewplain" );
+	}
+//]]>
+</script>
+
+
+
+
+<style type="text/css" media="all">
+	#patternTopBar,
+#patternClearHeaderCenter,
+#patternClearHeaderLeft,
+#patternClearHeaderRight,
+#patternTopBarContentsOuter {
+	height:64px; /* top bar height; make room for header columns */
+	overflow:hidden;
+}
+	#patternOuter {
+	margin-left:12em;
+}
+#patternLeftBar {
+	width:12em;
+	margin-left:-12em;
+}
+</style>
+<style type="text/css" media="all">
+	@import url('/twiki/pub/TWiki/PatternSkin/layout.css');
+	@import url('/twiki/pub/TWiki/PatternSkin/style.css');
+	@import url('/twiki/pub/TWiki/PatternSkin/colors.css');
+</style>
+<!--[if IE]>
+<style type="text/css" media="screen">
+pre {
+	overflow-x:auto;
+	padding-bottom:expression(this.scrollWidth > this.offsetWidth ? 16 : 0);
+}
+</style>
+<![endif]-->
+<!--[if lte IE 6]> 
+<style type="text/css">
+#patternLeftBar {
+	position:relative; /* IE 5.5 needs this or the contents won't show outside the parent container on print. IE 6.0 needs it only during printable copy! */
+}
+</style>
+<![endif]-->
+
+<style type="text/css" media="all">
+	/* Styles that are set using variables */
+	#patternLeftBar .patternWebIndicator,
+	.patternBookView .twikiTopRow {
+		background-color:#FFFFFF;
+	}
+	#patternTopBar { background-image:url("http://www.ssn.net/twiki/pub/SsnIntranet/SsnLogos/ssnbar.jpg"); background-repeat:no-repeat;}
+	#patternTopBar { background-color:#ffffff;}
+	.patternBookView {
+		border-color:#FFFFFF;
+	}
+	.patternPreviewPage #patternMain {
+		/* uncomment to set the preview image */
+		/*background-image:url("/twiki/pub/TWiki/PreviewBackground/preview2bg.gif");*/
+	}
+	
+	.twikiTable .tableSortIcon img {visibility:hidden;}
+	.twikiTable .tableSortUp {background:url("http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/tablesortup.gif") no-repeat;}
+	.twikiTable .tableSortDown {background:url("http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/tablesortdown.gif") no-repeat;}
+	.twikiTable .tableSortDiamond {background:url("http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/tablesortdiamond.gif") no-repeat;}
+</style>
+<style type="text/css" media="all">
+	
+	
+	
+</style>
+
+
+<style type="text/css" media="all">
+	@import url("/twiki/pub/TWiki/PatternSkin/print.css");
+</style>
+
+
+</head>
+<body class="patternViewPage"><a name="PageTop"></a>
+<div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternWrapper"><div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain"><div id="patternClearHeaderCenter"></div>
+<div id="patternMainContents">
+<div class="patternTop">
+<div class="patternToolBar">
+<div class="patternToolBarButtons"><span class="patternButton"><a href='http://www.ssn.net/twiki/bin/edit/SsnIntranet/WebHome?t=1409040484' rel='nofollow' title='Edit this topic text' accesskey='e'><span class='twikiAccessKey'>E</span>dit</a></span><span class="patternButton"><span class='patternButton'><a href='/twiki/bin/attach/SsnIntranet/WebHome' rel='nofollow' title='Attach an image or document to this topic' accesskey='a'><span class='twikiAccessKey'>A</span>ttach</a></span></span><span class="patternButton"><span class='patternButton'><a href='/twiki/bin/view/SsnIntranet/WebHome?cover=print' rel='nofollow' title='Printable version of this topic' accesskey='p'><span class='twikiAccessKey'>P</span>rintable</a></span></span>
+</div>
+</div><!-- /patternToolBar-->
+<div class="patternToolBarBottom"></div>
+</div><!-- /patternTop-->
+<div class="patternHomePath"><span class="twikiRight"> <span class="patternRevInfo">r53 - 02 Sep 2013 - 06:02:54 - <a href="/twiki/bin/view/Main/KarunaD" class="twikiLink">KarunaD</a></span></span><span class="patternHomePathTitle">You are here: </span> <a href="/twiki/bin/view/Main/WebHome" class="twikiLink">SSN Institutions</a><span class='twikiSeparator'>&nbsp;&gt;&nbsp;</span><a href="/twiki/bin/view/SsnIntranet/WebHome"><img src="/twiki/pub/TWiki/TWikiDocGraphics/web-bg-small.gif" border="0" alt="" width="13" height="13" style="background-color:#FFFFFF" />&nbsp;SsnIntranet Web</a><span class='twikiSeparator'>&nbsp;&gt;&nbsp;</span><span title="SsnIntranet.WebHome">WebHome</span><br class="twikiClear" /></div><!-- /patternHomePath--><div class="twikiBeforeText"></div><div class="patternContent"><div class="patternTopic"> <IMG SRC=http://www.ssn.net/twiki/pub/SsnIntranet/WebHome/SSN-view.jpg>
+<p />
+<h1><a name="Welcome_to_the_SSN_Intranet"></a> Welcome to the SSN Intranet </h1>
+<p />
+Today is <strong><em>26 Aug 2014</em></strong>.  Try <a href="http://www.dailysudoku.com/sudoku/today.shtml" target="_top">today's Su-do-ku</a>!
+<p />
+<p />
+<IMG SRC=http://www.ssn.net/twiki/pub/SsnIntranet/WebHome/light_blue_line.gif>
+<MARQUEE>
+Synchronize your system time with <strong>time.ssn.net</strong>.  See <a href="/twiki/bin/view/SsnIntranet/SsnTechSupport" class="twikiLink">SsnTechSupport</a> for instructions. <strong>||</strong> <a href="http://www.ssn.net/it5009/" target="_top">SSN PRINT</a> ||
+<a href="http://www.ssn.net/nptel/" target="_top">NPTEL eLearning courses</a> launched in our intranet. <strong>||</strong>
+<a href="http://www.ssn.net/mysqladmin/" target="_top">MySQL Server </a>launched in our intranet.  Contact <a href="mailto&#58;HelpDesk&#64;ssn&#46;edu&#46;in">HelpDesk&#64;ssn.edu.in</a> to create your database here. <strong>||</strong>
+SSN Email through POP and SMTP Configuration - See <a href="/twiki/bin/view/SsnIntranet/SsnTechSupport" class="twikiLink">SsnTechSupport</a> for instructions. <strong>||</strong>
+<a href="http://nptel.ssn.net/" target="_top">NPTEL eLearning Video courses</a> launched in our intranet. </MARQUEE>
+<IMG SRC=http://www.ssn.net/twiki/pub/SsnIntranet/WebHome/light_blue_line.gif><br>
+<a href =http://www.ssn.net/twiki/bin/view/Sandbox/TestTopic20 ><IMG SRC=http://www.ssn.net/twiki/pub/SsnIntranet/WebHome/network-class.gif></a>
+<p />
+<p />
+<p />
+<p />
+<p />
+Welcome to a new chapter in SSN Campus! Welcome to SSN Intranet!!! <font color="#ff0000">IT is happening here</font>!!!!! 
+<p />
+Founded by <font color="#0000ff">Padma Bhushan Dr. Shiv Nadar</font>, Chairman, HCL Group that played a key role in the development of India's IT sector, the SSN institutions seek to carry forward the spirit of excellence that characterizes HCL's ventures. Together, the SSN institutions are committed to scripting a unique chapter of excellence in education and research, in vital fields like engineering, biomedical engineering, IT, and management. 
+<p />
+Recently, we have taken up a new eLearning initiative that aims at effective use of current technology to enhance the teaching-learning process and to make this teaching-learning process learner driven. It is being implemented in such a way to supplement the class room teaching and not to replace it.
+<p />
+This site is currently at experimental stage. For your information, this is a wiki site and we use TWiki implementation.
+You can visit the <a href="/twiki/bin/view/TWiki/WebHome" class="twikiLink">TWiki Web</a> at our site to learn about the wiki implementation that we use. 
+<p />
+<p />
+<IMG SRC=http://www.ssn.net/twiki/pub/SsnIntranet/WebHome/light_blue_line.gif>
+<p />
+<p />
+<p />
+<!-- <ul>
+<li> Set ALLOWTOPICCHANGE=Main.TechSupportGroup
+</li></ul> 
+--></div><!-- /patternTopic-->
+<div class="twikiAfterText"></div></div><!-- /patternContent-->
+<a name="topic-actions"> </a><div class="patternTopicActions"><div class="patternTopicAction"><span class="patternActionButtons"> <span class="patternButton"><a href='http://www.ssn.net/twiki/bin/edit/SsnIntranet/WebHome?t=1409040484' rel='nofollow' title='Edit this topic text' accesskey='e'><span class='twikiAccessKey'>E</span>dit</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class='patternButton'><a href='/twiki/bin/attach/SsnIntranet/WebHome' rel='nofollow' title='Attach an image or document to this topic' accesskey='a'><span class='twikiAccessKey'>A</span>ttach</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class='patternButton'><a href='/twiki/bin/view/SsnIntranet/WebHome?cover=print' rel='nofollow' title='Printable version of this topic' accesskey='p'><span class='twikiAccessKey'>P</span>rintable</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class='patternButton'><a href='/twiki/bin/view/SsnIntranet/WebHome?raw=on' rel='nofollow' title='View raw text without formatting' accesskey='r'><span class='twikiAccessKey'>R</span>aw View</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span>Backlinks: <span class='patternButton'><a href='/twiki/bin/oops/SsnIntranet/WebHome?template=backlinksweb' rel='nofollow' title='Search the SsnIntranet Web for topics that link to here' accesskey='b'>We<span class='twikiAccessKey'>b</span></a></span>, <span class='patternButton'><a href='/twiki/bin/oops/SsnIntranet/WebHome?template=backlinksallwebs' rel='nofollow' title='Search all webs for topics that link to here' accesskey='l'>A<span class='twikiAccessKey'>l</span>l Webs</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class="patternRevision"><span class='patternButton'><a href='/twiki/bin/rdiff/SsnIntranet/WebHome?type=history' rel='nofollow' title='View total topic history' accesskey='h'><span class='twikiAccessKey'>H</span>istory</a></span>: r53&nbsp;<a rel="nofollow" href="/twiki/bin/rdiff/SsnIntranet/WebHome?rev1=53;rev2=52">&lt;</a>&nbsp;<a rel="nofollow" href="/twiki/bin/view/SsnIntranet/WebHome?rev=52">r52</a>&nbsp;<a rel="nofollow" href="/twiki/bin/rdiff/SsnIntranet/WebHome?rev1=52;rev2=51">&lt;</a>&nbsp;<a rel="nofollow" href="/twiki/bin/view/SsnIntranet/WebHome?rev=51">r51</a>&nbsp;<a rel="nofollow" href="/twiki/bin/rdiff/SsnIntranet/WebHome?rev1=51;rev2=50">&lt;</a>&nbsp;<a rel="nofollow" href="/twiki/bin/view/SsnIntranet/WebHome?rev=50">r50</a>&nbsp;<a rel="nofollow" href="/twiki/bin/rdiff/SsnIntranet/WebHome?rev1=50;rev2=49">&lt;</a>&nbsp;<a rel="nofollow" href="/twiki/bin/view/SsnIntranet/WebHome?rev=49">r49</a></span><span class='twikiSeparator'>&nbsp;|&nbsp;</span><span class='patternButton'><a href='/twiki/bin/oops/SsnIntranet/WebHome?template=oopsmore&amp;param1=53&amp;param2=53' rel='nofollow' title='Delete or rename this topic; set parent topic; view and compare revisions' accesskey='m'><span class='twikiAccessKey'>M</span>ore topic actions</a></span></span></div></div><!--/patternTopicActions--><div class="patternMoved"></div><!-- /patternMoved-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain--><div id="patternLeftBar"><div id="patternClearHeaderLeft"></div>
+<div id="patternLeftBarContents">
+<div class="patternWebIndicator"><b><a href="/twiki/bin/view/SsnIntranet/WebHome">SsnIntranet</a></b></div>
+<div class="patternLeftBarPersonal">
+<ul><li class="patternLogIn"><a href="/twiki/bin/login/SsnIntranet/WebHome?origurl=/">Log In</a> or <a href="/twiki/bin/view/TWiki/TWikiRegistration" class="twikiLink">Register</a></li></ul>
+<div class="patternLeftBarPersonalContent">
+</div></div>
+<p /> <ul>
+<li> <b><a href="/twiki/bin/view/SsnIntranet/WebHome" class="twikiCurrentTopicLink twikiCurrentWebHomeLink twikiLink"> <img width="16" alt="home" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/home.gif" height="16" border="0" />SSN Home</a></b>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnPresident" class="twikiLink">President's Desk</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnPeople" class="twikiLink">People</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnAnnouncements" class="twikiLink">Announcements</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnScholarships" class="twikiLink">Scholarships</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnDepartments" class="twikiLink">Departments</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnElearning" class="twikiLink">eLearning</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnYouthRedCross" class="twikiLink">YRC</a><IMG src="http://www.ssn.net/twiki/pub/ItIntranet/WebLeftBar/new.gif">
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnLibrary" class="twikiLink">Library</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnInrastructure" class="twikiLink">Infrastructure</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnResearch" class="twikiLink">Research Activities</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnPlacement" class="twikiLink">Placement Activities</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/SsnTechSupport" class="twikiLink">Tech Support</a>
+</li></ul> 
+<!-- <ul>
+<li> [[][Discussion Forum]]
+</li></ul> 
+-->
+<p />
+<hr /> <ul>
+<li> <a href="/twiki/bin/view/Sandbox/TestTopic20" class="twikiLink">Cisco BootCamp</a><IMG src="http://www.ssn.net/twiki/pub/ItIntranet/WebLeftBar/new.gif">
+</li></ul> 
+<p /> <ul>
+<li> <a href="/twiki/bin/view/SomcaIntranet/WebHome" class="twikiLink">SSN SoMCA</a>
+</li></ul> 
+<p /> <ul>
+<li> <a href="http://start.ssn.edu.in/" target="_top">SSN Apps</a>
+</li></ul> 
+<p />
+<hr />
+<p />
+<!-- <ul>
+<li> <a href="/twiki/bin/view/SsnIntranet/WebTopicCreator?parent=WebHome" target="_top"> <img width="16" alt="newtopic" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/newtopic.gif" height="16" border="0" /> Create New Topic</a>
+</li></ul> 
+--> <ul>
+<li> <a href="/twiki/bin/view/SsnIntranet/WebTopicList" class="twikiLink"> <img width="16" alt="index" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/index.gif" height="16" border="0" /> Index</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/WebSearch" class="twikiLink"> <img width="16" alt="searchtopic" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/searchtopic.gif" height="16" border="0" /> Search</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/WebChanges" class="twikiLink"> <img width="16" alt="changes" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/changes.gif" height="16" border="0" /> Changes</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/WebNotify" class="twikiLink"> <img width="16" alt="notify" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/notify.gif" height="16" border="0" /> Notifications</a>
+</li> <li> <a href="/twiki/bin/view/SsnIntranet/WebStatistics" class="twikiLink"> <img width="16" alt="statistics" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/statistics.gif" height="16" border="0" /> Statistics</a>
+</li></ul> 
+<!-- <ul>
+<li> <a href="/twiki/bin/view/SsnIntranet/WebPreferences" class="twikiLink"> <img width="16" alt="wrench" align="top" src="/twiki/pub/TWiki/TWikiDocGraphics/wrench.gif" height="16" border="0" /> Preferences</a>
+</li></ul> 
+-->
+<p />
+<!--
+<p />
+<hr /> <ul>
+<li> <strong>Webs</strong>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/BmeIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;BmeIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/CheIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;CheIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/ChemIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;ChemIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/CivilIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#00CCFF" />&nbsp;CivilIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/CseIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#33CCFF" />&nbsp;CseIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EceIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;EceIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/EeeIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;EeeIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/HumanitiesIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;HumanitiesIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/ItIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;ItIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Main/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#FFEFA6" />&nbsp;Main</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/MathsIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;MathsIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/MbaIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;MbaIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/McaIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;McaIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/MechIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;MechIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/PhyIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#66CCFF" />&nbsp;PhyIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/Sandbox/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#B9DAFF" />&nbsp;Sandbox</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/SaseIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#00CCFF" />&nbsp;SaseIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/SomcaIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#CCFFFF" />&nbsp;SomcaIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/SsnIntranet/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#FFFFFF" />&nbsp;SsnIntranet</a></span>
+</li> <li> <span style="white-space:nowrap"><a href="/twiki/bin/view/TWiki/WebHome"><img src="http://www.ssn.net/twiki/pub/TWiki/TWikiDocGraphics/web-bg.gif" border="0" alt="" width="16" height="16" style="background-color:#FFD8AA" />&nbsp;TWiki</a></span>
+</li></ul> 
+<p />
+<p />
+-->
+</div><!-- /patternLeftBarContents--></div><!-- /patternLeftBar-->
+</div><!-- /patternFloatWrap-->
+<div class="clear">&nbsp;</div>
+</div><!-- /patternOuter--></div><!-- /patternWrapper--><div id="patternTopBar"><div id="patternTopBarContents"><table border="0" cellpadding="0" cellspacing="0" style="width:100%; margin-top:11px;">
+<tr><td valign="middle"><a href="http://www.ssn.edu.in/"><img src="http://www.ssn.net/twiki/pub/SsnIntranet/SsnLogos/logo.jpg" border="0" alt="Powered by SSN Institutions" /></a></td>
+<td align="right" valign="top" class="patternMetaMenu">
+ <ul>
+<li> <form name="jumpForm" action="/twiki/bin/view/SsnIntranet/WebHome"><input id="jumpFormField" type="text" class="twikiInputField patternFormFieldDefaultColor" name="topic" size="14" value="Jump" onfocus="clearDefaultandCSS(this);" onblur="setDefaultText(this);" /></form>
+</li> <li> <form name="quickSearchForm" action="/twiki/bin/view/SsnIntranet/WebSearch"><input type="text" class="twikiInputField patternFormFieldDefaultColor" name="search" value="Search" size="14" onfocus="clearDefaultandCSS(this);" onblur="setDefaultText(this);" /></form>
+</li> <li> 
+</li></ul> 
+</td></tr></table></div></div><!-- /patternTopBar--><div id="patternBottomBar"><div id="patternBottomBarContents"><span class="twikiRight"> <a href="http://twiki.org/"><img src="/twiki/pub/TWiki/TWikiLogos/T-logo-80x15.gif" alt="This site is powered by the TWiki collaboration platform" width="80" height="15" title="This site is powered by the TWiki collaboration platform" border="0" /></a></span>Copyright &copy; by the contributing authors. All material on this collaboration platform is the property of the contributing authors at SSN Institutions. <br /> Ideas, requests, problems regarding SSN Institutions? <a href='mailto:tsg@ssn.edu.in?subject=SSN Institutions&#32;Feedback&#32;on&#32;SsnIntranet.WebHome'>Send feedback</a> 
+</div><!-- /patternBottomBarContents--></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen-->
+</body></html>
